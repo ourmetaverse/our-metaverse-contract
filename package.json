@@ -10,9 +10,7 @@
     "deploy:localhost": "npx hardhat run scripts/deploy.ts --network localhost",
     "deploy:rinkeby": "npx hardhat run scripts/deploy.ts --network rinkeby",
     "deploy:mainnet": "npx hardhat run scripts/deploy.ts --network mainnet",
-    "test": "hardhat test",
-    "verify:rinkeby": "npx hardhat verify 0x07b64a8F929A154d95Cc3c0cAa550E475f87BAf6 'https://our-metaverse.xyz/meta.json#' --network rinkeby",
-    "verify:mainnet": "npx hardhat verify 0xEcd0D12E21805803f70de03B72B1C162dB0898d9 'https://our-metaverse.xyz/meta.json#' --network mainnet"
+    "test": "hardhat test"
   },
   "author": "",
   "license": "ISC",

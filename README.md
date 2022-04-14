@@ -44,11 +44,11 @@ npm run deploy:rinkeby
 ### Verify source code on rinkeby
 
 ```sh
-npm run verify:rinkeby
+npx hardhat verify [your contract address] 'https://our-metaverse.xyz/meta.json#' --network rinkeby
 ```
 
 ### Verify source code on mainnet
 
 ```sh
-npm run verify:mainnet
+npx hardhat verify [your contract address] 'https://our-metaverse.xyz/meta.json#' --network mainnet
 ```
