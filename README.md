@@ -4,7 +4,9 @@ http://our-metaverse.xyz/
 
 ## About OurMetaverseDAO NFT Contract
 
-OurMetaverseDAO NFT Contract is a smart contract which deploy on [Ethereum](https://etherscan.io/address/0xEcd0D12E21805803f70de03B72B1C162dB0898d9). It's based on ERC721, added some new API for web3 creator economy, perhaps ERC721M can be created in the future.
+OurMetaverseDAO NFT Contract is a smart contract which deploy on [Ethereum](https://etherscan.io/address/0xEcd0D12E21805803f70de03B72B1C162dB0898d9). It's based on ERC721, added some new API for web3 creator economy, perhaps [ERC721M](https://github.com/ourmetaverse/erc721m) can be created in the future.
+
+About ERC721M: [https://github.com/ourmetaverse/erc721m](https://github.com/ourmetaverse/erc721m).
 
 ## Develop
 
